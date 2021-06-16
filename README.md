@@ -2,7 +2,7 @@
 
 Welcome to the world of Mohit Suman !!
 
-Mohit Suman is based out of beautiful country India. He works as a Senior Software Engineer and Agile Coach at [Red Hat](https://www.redhat.com/en) R&D Team. Currently working for Developer Tools team and making softwares to enhance the overall developer experience. An advocate of open source stuff and evangelist of a happy-go-lucky life.
+Mohit Suman is based out of beautiful country India. He works as a Technical Product Manager at [Red Hat](https://www.redhat.com/en) R&D Team. Currently working for Developer Tools team and making softwares to enhance the overall developer experience. An advocate of open source stuff and evangelist of a happy-go-lucky life.
 
 On public speaking and leadership qualities, he is excited about learning new things down the road and look to make the world a better place. And someday he will.
 
