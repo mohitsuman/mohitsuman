@@ -5,16 +5,16 @@ Welcome to the world of Mohit Suman !!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitsuman/)
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/imohitsuman)
 
-Mohit Suman is based out of the beautiful country India. He works as a Senior Manager, Product Management at [Salesforce](https://www.salesforce.com/in/?ir=1) with 14 years of experience in Product Management, Product Strategy, Cloud-Native Technology and Developer Tools. Proven track record in driving Agentic DevOps, AI/ML products and cloud platforms, achieving substantial revenue growth, and increasing user adoption. Skilled in leading cross-functional teams and forging strategic partnerships to deliver cutting-edge developer tools and platforms.
+Mohit Suman is based out of the beautiful country India. He is a Leader in Product Management, currently defining AI DevEx at [Harness](harness.io). He has previously worked at [Salesforce](https://www.salesforce.com/in/?ir=1) and [Red Hat](https://www.redhat.com), with 14+ years of experience in Product Management, Product Strategy, Cloud-Native Technology and Developer Tools. Proven track record in driving Agentic DevOps, AI/ML products and cloud platforms, achieving substantial revenue growth, and increasing user adoption. Skilled in leading cross-functional teams and forging strategic partnerships to deliver cutting-edge developer tools and platforms.
 
-On public speaking and leadership qualities, he is excited about learning new things down the road and looking to make the world a better place. International Speaker at Tech & Open Source Conferences - KubeCon EU, US & Japan, Product Week US, DevConf.CZ, BigData London, Developer Week, GIDS.
+On public speaking and leadership qualities, he is excited about learning new things down the road and looking to make the world a better place. International Speaker at Tech & Open Source Conferences - KubeCon [EU, US & Japan], Product Week US, DevConf.CZ, BigData London, Developer Week, GIDS, OpenSource India.
 
 When he’s not writing about himself in the third person, Mohit is an avid traveler and loves to explore the beauty around the globe. He is a cricket enthusiast and loves to celebrate happy moments.
 
-- :rocket: Currently Leading Agentic Experience at Salesforce with Enterprise Vibe Coding
-- <> Working on AI based Developer Tooling leveraging MCP, A2A
+- :rocket: Currently Leading Agentic Developer Experience
+- <> Previously worked on Salesforce Agentic DevOps and Slack
 - 🔭 Previously worked as Product Manager for Cloud-based IDE(OpenShift DevSpaces) and Red Hat VSCode and IntelliJ extensions
-- 💬 Ask me about Developer Experience, Agentic DX, Vibe Coding, Kubernetes, VSCode extensions, IntelliJ plugins, Front End stack (React JS, TypeScript)
+- 💬 Ask me about AI, MCP, Developer Experience, Agentic DX, Vibe Coding, Kubernetes, CLI, VSCode extensions, IntelliJ plugins, Front End stack (React JS, TypeScript)
 - 😄 Pronouns: He/him
 - :video_camera: Course at [Pluralsight](https://www.pluralsight.com/courses/big-data-ldn-session-40)
 
